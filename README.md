@@ -1,4 +1,4 @@
-# Ocarina Unlocked
+# ![Ocarina](https://raw.githubusercontent.com/nmacadam/ocarina-unlocked/main/images/ocarina-icon.png "Ocarina Icon") Ocarina Unlocked
 A ROM hack of *Legend of Zelda: Ocarina of Time* that removes one-off item-based progression gates.
 
 Changelist:
