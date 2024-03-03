@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/nmacadam/ocarina-unlocked/assets/37878073/05ec7437-d904-4167-94c6-6e76e70c01e7" />
+  <img src="https://github.com/nmacadam/ocarina-unlocked/assets/37878073/05ec7437-d904-4167-94c6-6e76e70c01e7" height="300px"/>
 </p>
 <hr>
 A ROM hack of <i>The Legend of Zelda: Ocarina of Time</i> that opens up the progression of the game by making minimal changes to the overworld, dungeon puzzles, and how the game directs the player.
