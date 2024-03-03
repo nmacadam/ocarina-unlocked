@@ -16,7 +16,7 @@ We have a full breakdown of the why behind this hack available [here](https://gi
 
 
 <p align="center">
-  <img src="https://github.com/nmacadam/ocarina-unlocked/assets/37878073/56b9736e-dd53-4a5f-ada8-5e84563c87cc" />
+  <img src="https://github.com/nmacadam/ocarina-unlocked/assets/37878073/56b9736e-dd53-4a5f-ada8-5e84563c87cc" height="300px"/>
 </p>
 
 Short Changelist:
