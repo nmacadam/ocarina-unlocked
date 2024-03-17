@@ -25,4 +25,5 @@ Short Changelist:
 - The Nocturne of Shadow cutscene no longer requires the Water Medallion
 - Small changes to cutscenes and dialogue to point the player at the newly accessible dungeons
 - The map screen shows all currently accessible dungeons
+
 A more detailed breakdown of each change, the reasoning behind them, and  their implementation are available on [the wiki](https://github.com/nmacadam/ocarina-unlocked/wiki/Changes)!
