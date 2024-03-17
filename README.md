@@ -27,3 +27,11 @@ Short Changelist:
 - The map screen shows all currently accessible dungeons
 
 A more detailed breakdown of each change, the reasoning behind them, and  their implementation are available on [the wiki](https://github.com/nmacadam/ocarina-unlocked/wiki/Changes)!
+
+## Patching a ROM
+Requires the Legend of Zelda: Ocarina of Time v1.0 NTSC-U ROM (the file extension should be `.z64`).
+
+1. Download the latest [Ocarina Unlocked patch](https://github.com/nmacadam/ocarina-unlocked/releases)
+2. Load the OoT NTSC-U v1.0 ROM into your patching software of choice ([here's an online patcher](https://www.marcrobledo.com/RomPatcher.js/)), and patch using the downloaded Ocarina Unlocked `.bps` patch file
+
+Ocarina Unlocked is not currently compatible with other OoT ROM hacks.
